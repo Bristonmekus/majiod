@@ -1,0 +1,2 @@
+# majiod
+Basic git tutorial
